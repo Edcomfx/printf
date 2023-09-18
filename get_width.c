@@ -1,4 +1,5 @@
 #include "main.h"
+this is lizzy and smith hardwork
 
 /**
  * get_width - Calculates the width for printing
